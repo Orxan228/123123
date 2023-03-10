@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 80%;
+    margin: 0 auto;
+}
+.container{
+    margin-top: 20px;
+}
+.row{
+    margin: 15px 0 15px 0;
+}
